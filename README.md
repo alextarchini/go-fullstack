@@ -1,4 +1,4 @@
-# A sellartisan food app
+# Sell-app
 
 ## super easy to use
 ## user friendly
